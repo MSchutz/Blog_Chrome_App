@@ -1,0 +1,15 @@
+{
+	"name": "Matt Dashboard",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Matthew Schutz Blog",
+	"app": {
+		"urls": ["http://matthewschutz.com"],
+		"launch": {
+			"web_url": "http://matthewschutz.com"
+		}
+	},
+	"icons": {
+		"128": "icon.png"
+	}
+}
